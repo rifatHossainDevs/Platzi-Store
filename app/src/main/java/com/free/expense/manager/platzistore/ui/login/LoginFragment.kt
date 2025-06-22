@@ -15,7 +15,6 @@ import com.free.expense.manager.platzistore.R
 import com.free.expense.manager.platzistore.data.login.RequestLogin
 import com.free.expense.manager.platzistore.databinding.FragmentLoginBinding
 import dagger.hilt.android.AndroidEntryPoint
-import androidx.core.content.edit
 
 @AndroidEntryPoint
 class LoginFragment : Fragment() {
